@@ -1,4 +1,4 @@
-Market Rhythm Analysis Model
+Market Rhythm Analysis Model:
 The Market Rhythm Model is an advanced predictive tool for financial market analysis, aimed at detecting rhythmic patterns and market trends based on stock price and volume data. This model leverages various signal processing techniques, including Fast Fourier Transform (FFT) and Wavelet Transform, to identify underlying patterns in stock data.
 
 Key Features:
