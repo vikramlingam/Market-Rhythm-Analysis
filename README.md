@@ -7,3 +7,4 @@ Feature Engineering: Computes essential features like price rhythm, volume rhyth
 Modeling and Evaluation: Employs machine learning techniques, specifically Random Forest, for prediction. The model includes cross-validation and extensive metrics like ROC-AUC, precision, recall, and F1 scores.
 Signal Processing: Integrates FFT and wavelet transformations to extract frequency components and detect rhythmic behaviors in stock movements.
 This project is ideal for finance researchers, quantitative analysts, or enthusiasts interested in blending machine learning with financial market analysis. The repository includes model training, evaluation, and visualization steps to assist users in understanding stock market rhythms.
+
